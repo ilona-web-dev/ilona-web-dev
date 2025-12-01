@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋, I’m Ilona 💻
 
-<!--
-**ilona-web-dev/ilona-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer based in Dublin, Ireland.  
+**4+ years in front-end**, **2+ years with React**, **5+ years in UI/UX design**.  
+I hold a **full-time work permit in Ireland** and I’m **open to new opportunities**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+**Frontend:** React, Next.js, Redux Toolkit, TanStack Query, Styled Components, Tailwind CSS  
+**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3 (SCSS)  
+**APIs & Backend:** REST APIs, Axios, Fetch, Supabase  
+**Tools:** Vite, Webpack, Git, VS Code, Figma  
+**Practices:** Accessibility, Performance, Responsive Design  
+**Methodologies:** Agile (Scrum/Kanban)
